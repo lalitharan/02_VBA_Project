@@ -7,13 +7,20 @@ for these stocks and trying to understand the return percentage using vba script
 
 ## Results
 original code run time for 2017
+
 ![](Submission/Resources/Timer_2017_Original.png)
 
 Refactored code run time for 2017
+![](Submission/Resources/Timer_2017_Refactored.png)
 
 Original code run for 2018
 
+![](Submission/Resources/Timer_2018_Original.png)
+
+
 Refactored code run for 2018
+
+![](Submission/Resources/Timer_2018_Refactored.png)
 
 
 
