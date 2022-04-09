@@ -1,6 +1,6 @@
 # 02_VBA_Project
 
-## Overview of Project: Explain the purpose of this analysis
+## Overview of Project
 The overview of the project is to analyze the stock market data set for two years - 2017 and 2018 for the following stocks:
 AY,CSIQ,DQ,ENPH,FSLR,HASI,JKS,RUN,SEDG,SPWR,TERP and VSLR. We are analyzing the market start price, market ending price and total volume
 for these stocks and trying to understand the return percentage using vba scripts.
